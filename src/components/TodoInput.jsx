@@ -12,6 +12,7 @@ export default function TodoInput(props) {
             }} placeholder='Enter todo...' />
             <button onClick={() => {
                 handleAddTodos(todoValue)
+                setTodoValue='' // resets the input once add is pressed
             }}>Add</button>
 
         </header>
