@@ -59,5 +59,3 @@ function App() {
 }
 
 export default App
-
-// https://www.youtube.com/watch?v=DHWrOpKSZkM&t=70s&ab_channel=Smoljames
